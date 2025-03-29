@@ -17,9 +17,9 @@ spring:
   flyway:
     enabled: true
     locations: classpath:db/migration
-    url: jdbc:postgresql://dpg-cvjuepd6ubrc73cq8gcg-a.frankfurt-postgres.render.com:5432/deskdb_dbvj
-    user: deskdb_dbvj_user
-    password: OPA1T2PMtAUc86SKQyEexC6tUOPtvI5Z
+    url: jdbc:postgresql://dpg-cvjung6uk2gs73a3hbc0-a.frankfurt-postgres.render.com:5432/deskdb_xm2s
+    user: deskdb_xm2s_user
+    password: xgsizYhjhNZwFawrzqF1VUmyLURN2hIz
 
   mail:
     host: mail.gurkangultekin.dev
